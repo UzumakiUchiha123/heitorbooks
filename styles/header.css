@@ -1,0 +1,8 @@
+.lista-menu__titulo {
+    color: var(--laranja);
+.lista-menu {
+        display: none;
+        position: absolute;
+        top: 100%;
+        width: 60vw;
+        }
